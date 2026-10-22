@@ -42,12 +42,16 @@ Beberapa konsep yang digunakan:
 **Hasil:** Tulisan “Hello World” muncul pada halaman web dan pesan juga tercatat di Console.
 
 **Penjelasan:** `textContent` mengubah teks pada elemen HTML, sedangkan `console.log()` menampilkan informasi pada Console browser.
+
 index.html
 ![index1.png](ss/index.png.png)
+
 script.js
 ![script1.png](ss/script.png.png)
+
 hasil 
 ![hasil1.png](ss/hasil1.png.png)
+
 console
 ![console.png](ss/console.png.png)
 
@@ -60,6 +64,7 @@ console
 
 script.js
 ![script2.png](ss/script2.png.png)
+
 hasil
 ![hasil2.png](ss/hasil2.png.png)
 
@@ -77,6 +82,7 @@ hasil
 
 script.js
 ![script3.png](ss/script3.png.png)
+
 hasil
 ![hasil3.png](ss/hasil3.png.png)
 
@@ -89,6 +95,7 @@ hasil
 
 script.js
 ![script4.png](ss/script4.png.png)
+
 hasil
 ![hasil41.png](ss/hasil41.png.png)
 ![hasil42.png](ss/hasil42.png.png)
@@ -102,6 +109,7 @@ hasil
 
 script.js
 ![script5.png](ss/script.png.png)
+
 hasil
 ![hasil51.png](ss/hasil51.png.png)
 ![hasil52.png](ss/hasil52.png.png)
@@ -114,12 +122,14 @@ hasil
 **Penjelasan:** Operator `%` menghasilkan sisa pembagian. Jika `angka % 2 === 0`, bilangan tersebut genap.
 
 index.html
-![index2.png](ss/index2.png)
+![index2.png](ss/index2.png.png)
+
 script.js
-![script6.png](ss/script6.png)
+![script6.png](ss/script6.png.png)
+
 hasil 
-![hasil61.png](ss/hasil61.png)
-![hasil62.png](ss/hasil62.png)
+![hasil61.png](ss/hasil61.png.png)
+![hasil62.png](ss/hasil62.png.png)
 
 ### Latihan 7 — Mengubah Warna Halaman
 **Langkah:** Tiga tombol disediakan untuk mengubah warna latar menjadi hijau muda, putih, atau kuning muda. Semua tombol menggunakan function `ubahWarnaLatar(warna)` dengan parameter warna.
@@ -129,11 +139,13 @@ hasil
 **Penjelasan:** JavaScript dapat mengubah CSS melalui properti `document.body.style.backgroundColor`.
 
 index.html
-![index3.png](ss/index3.png)
+![index3.png](ss/index3.png.png)
+
 script.js
-![script7.png](ss/script7.png)
+![script7.png](ss/script7.png.png)
+
 hasil
-![hasil7.png](ss/hasil7.png)
+![hasil7.png](ss/hasil7.png.png)
 
 ### Latihan 8 — DOM dan Checkbox Menu Makanan
 **Langkah:** Pengguna memilih menu melalui checkbox. Setiap perubahan pilihan memanggil function untuk menghitung ulang total harga.
@@ -147,11 +159,13 @@ hasil
 **Penjelasan:** `querySelectorAll()` memilih semua checkbox menu, `addEventListener()` mendeteksi perubahan pilihan, dan `textContent` menampilkan total harga.
 
 index.html
-![index4.png](ss/index4.png)
+![index4.png](ss/index4.png.png)
+
 script.js
-![script8.png](ss/script8.png)
+![script8.png](ss/script8.png.png)
+
 hasil
-![hasil8.png](ss/hasil8.png)
+![hasil8.png](ss/hasil8.png.png)
 
 ## E. Mini Project — Kalkulator Nilai Mahasiswa
 **Langkah:** Nilai akhir dihitung dari 30% nilai tugas, 30% UTS, dan 40% UAS. Selanjutnya program menentukan predikat dan status kelulusan.
@@ -167,14 +181,16 @@ hasil
 **Penjelasan:** Function `hitungNilaiAkhir()` memisahkan perhitungan nilai, sedangkan `tentukanPredikat()` menentukan huruf mutu berdasarkan nilai akhir. Status lulus diberikan jika nilai akhir minimal 60.
 
 index.html
-![index5.png](ss/index5.png)
+![index5.png](ss/index5.png.png)
+
 script.js
-![script9.png](ss/script9.png)
+![script9.png](ss/script9.png.png)
+
 hasil
-![hasil9.png](ss/hasil9.png)
+![hasil9.png](ss/hasil9.png.png)
 
 **Hasil Akhir**
-![terakhir.png](ss/terakhir.png)
+![terakhir.png](ss/terakhir.png.png)
 
 ## F. Jawaban Pertanyaan dan Tugas
 
