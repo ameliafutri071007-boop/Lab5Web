@@ -43,13 +43,13 @@ Beberapa konsep yang digunakan:
 
 **Penjelasan:** `textContent` mengubah teks pada elemen HTML, sedangkan `console.log()` menampilkan informasi pada Console browser.
 index.html
-![index1.png](ss/index.png)
+![index1.png](ss/index.png.png)
 script.js
-![script1.png](ss/script.png)
+![script1.png](ss/script.png.png)
 hasil 
-![hasil1.png](ss/hasil1.png)
+![hasil1.png](ss/hasil1.png.png)
 console
-![console.png](ss/console.png)
+![console.png](ss/console.png.png)
 
 ### Latihan 2 — Alert dan Prompt
 **Langkah:** Program meminta nama pengguna melalui `prompt()`. Jika nama diisi, program menampilkan sapaan melalui `alert()` dan mengubah teks halaman. Jika kosong atau dibatalkan, program menampilkan pemberitahuan.
@@ -59,9 +59,9 @@ console
 **Penjelasan:** `prompt()` menerima input pengguna dan `alert()` menampilkan pesan dialog.
 
 script.js
-![script2.png](ss/script2.png)
+![script2.png](ss/script2.png.png)
 hasil
-![hasil2.png](ss/hasil2.png)
+![hasil2.png](ss/hasil2.png.png)
 
 ### Latihan 3 — Function dan Operasi Aritmetika
 **Langkah:** Function `operasiDasar(a, b)` menjalankan penjumlahan, pengurangan, perkalian, pembagian, dan modulus. Program diuji menggunakan angka 9 dan 4.
@@ -76,9 +76,9 @@ hasil
 **Penjelasan:** Function membantu mengelompokkan perintah. Parameter `a` dan `b` menerima nilai yang akan dihitung.
 
 script.js
-![script3.png](ss/script3.png)
+![script3.png](ss/script3.png.png)
 hasil
-![hasil3.png](ss/hasil3.png)
+![hasil3.png](ss/hasil3.png.png)
 
 ### Latihan 4 — Percabangan If–Else
 **Langkah:** Program meminta nilai 0–100, mengubah masukan menjadi angka, lalu memeriksa apakah masukan valid. Nilai minimal 60 dinyatakan lulus.
@@ -88,10 +88,10 @@ hasil
 **Penjelasan:** `if-else` menjalankan perintah yang berbeda berdasarkan kondisi yang terpenuhi.
 
 script.js
-![script4.png](ss/script4.png)
+![script4.png](ss/script4.png.png)
 hasil
-![hasil41.png](ss/hasil41.png)
-![hasil42.png](ss/hasil42.png)
+![hasil41.png](ss/hasil41.png.png)
+![hasil42.png](ss/hasil42.png.png)
 
 ### Latihan 5 — Percabangan Switch
 **Langkah:** Program meminta angka 1–5, kemudian menggunakan `switch` untuk menampilkan nama bilangan.
@@ -101,10 +101,10 @@ hasil
 **Penjelasan:** `switch` memilih satu tindakan berdasarkan nilai yang cocok dengan salah satu `case`. `break` menghentikan proses pada case yang dipilih.
 
 script.js
-![script5.png](ss/script.png)
+![script5.png](ss/script.png.png)
 hasil
-![hasil51.png](ss/hasil51.png)
-![hasil52.png](ss/hasil52.png)
+![hasil51.png](ss/hasil51.png.png)
+![hasil52.png](ss/hasil52.png.png)
 
 ### Latihan 6 — Form Bilangan Genap atau Ganjil
 **Langkah:** Pengguna memasukkan bilangan bulat, lalu menekan tombol Periksa. Program memvalidasi input dan menggunakan operator modulus untuk menentukan jenis bilangan.
