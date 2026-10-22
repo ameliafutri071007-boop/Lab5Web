@@ -43,16 +43,9 @@ Beberapa konsep yang digunakan:
 
 **Penjelasan:** `textContent` mengubah teks pada elemen HTML, sedangkan `console.log()` menampilkan informasi pada Console browser.
 
-index.html
 ![index1.png](ss/index.png.png)
-
-script.js
 ![script1.png](ss/script.png.png)
-
-hasil 
 ![hasil1.png](ss/hasil1.png.png)
-
-console
 ![console.png](ss/console.png.png)
 
 ### Latihan 2 — Alert dan Prompt
