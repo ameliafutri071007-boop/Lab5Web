@@ -43,8 +43,8 @@ Beberapa konsep yang digunakan:
 
 **Penjelasan:** `textContent` mengubah teks pada elemen HTML, sedangkan `console.log()` menampilkan informasi pada Console browser.
 
-![index1.png](ss/index.png.png)
-![script1.png](ss/script.png.png)
+![index1.png](ss/index1.png.png)
+![script1.png](ss/script1.png.png)
 ![hasil1.png](ss/hasil1.png.png)
 ![console.png](ss/console.png.png)
 
