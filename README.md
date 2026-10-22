@@ -55,10 +55,8 @@ Beberapa konsep yang digunakan:
 
 **Penjelasan:** `prompt()` menerima input pengguna dan `alert()` menampilkan pesan dialog.
 
-script.js
-![script2.png](ss/script2.png.png)
 
-hasil
+![script2.png](ss/script2.png.png)
 ![hasil2.png](ss/hasil2.png.png)
 
 ### Latihan 3 — Function dan Operasi Aritmetika
@@ -73,10 +71,7 @@ hasil
 
 **Penjelasan:** Function membantu mengelompokkan perintah. Parameter `a` dan `b` menerima nilai yang akan dihitung.
 
-script.js
 ![script3.png](ss/script3.png.png)
-
-hasil
 ![hasil3.png](ss/hasil3.png.png)
 
 ### Latihan 4 — Percabangan If–Else
@@ -86,10 +81,7 @@ hasil
 
 **Penjelasan:** `if-else` menjalankan perintah yang berbeda berdasarkan kondisi yang terpenuhi.
 
-script.js
 ![script4.png](ss/script4.png.png)
-
-hasil
 ![hasil41.png](ss/hasil41.png.png)
 ![hasil42.png](ss/hasil42.png.png)
 
@@ -100,10 +92,7 @@ hasil
 
 **Penjelasan:** `switch` memilih satu tindakan berdasarkan nilai yang cocok dengan salah satu `case`. `break` menghentikan proses pada case yang dipilih.
 
-script.js
-![script5.png](ss/script.png.png)
-
-hasil
+![script5.png](ss/script5.png.png)
 ![hasil51.png](ss/hasil51.png.png)
 ![hasil52.png](ss/hasil52.png.png)
 
@@ -114,13 +103,8 @@ hasil
 
 **Penjelasan:** Operator `%` menghasilkan sisa pembagian. Jika `angka % 2 === 0`, bilangan tersebut genap.
 
-index.html
 ![index2.png](ss/index2.png.png)
-
-script.js
 ![script6.png](ss/script6.png.png)
-
-hasil 
 ![hasil61.png](ss/hasil61.png.png)
 ![hasil62.png](ss/hasil62.png.png)
 
@@ -131,13 +115,8 @@ hasil
 
 **Penjelasan:** JavaScript dapat mengubah CSS melalui properti `document.body.style.backgroundColor`.
 
-index.html
 ![index3.png](ss/index3.png.png)
-
-script.js
 ![script7.png](ss/script7.png.png)
-
-hasil
 ![hasil7.png](ss/hasil7.png.png)
 
 ### Latihan 8 — DOM dan Checkbox Menu Makanan
@@ -151,13 +130,8 @@ hasil
 
 **Penjelasan:** `querySelectorAll()` memilih semua checkbox menu, `addEventListener()` mendeteksi perubahan pilihan, dan `textContent` menampilkan total harga.
 
-index.html
 ![index4.png](ss/index4.png.png)
-
-script.js
 ![script8.png](ss/script8.png.png)
-
-hasil
 ![hasil8.png](ss/hasil8.png.png)
 
 ## E. Mini Project — Kalkulator Nilai Mahasiswa
@@ -173,13 +147,8 @@ hasil
 
 **Penjelasan:** Function `hitungNilaiAkhir()` memisahkan perhitungan nilai, sedangkan `tentukanPredikat()` menentukan huruf mutu berdasarkan nilai akhir. Status lulus diberikan jika nilai akhir minimal 60.
 
-index.html
 ![index5.png](ss/index5.png.png)
-
-script.js
 ![script9.png](ss/script9.png.png)
-
-hasil
 ![hasil9.png](ss/hasil9.png.png)
 
 **Hasil Akhir**
